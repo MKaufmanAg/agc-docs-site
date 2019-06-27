@@ -5,7 +5,7 @@ const config = {
     gaTrackingId: null
   },
   header: {
-    logo: "https://graphql-engine-cdn.hasura.io/img/hasura_icon_white.svg",
+    logo: "https://avatars2.githubusercontent.com/u/12531147?s=200&v=4",
     title: "agConnections Developer Documentation",
     githubUrl: "https://github.com/MKaufmanAg/agc-docs-site",
     helpUrl: "",
@@ -13,7 +13,7 @@ const config = {
     links: [{ text: "", link: "" }]
   },
   sidebar: {
-    forcedNavOrder: ["/introduction", "/codeblock", "/github-conventions"],
+    forcedNavOrder: ["/introduction"],
     links: [{ text: "", link: "" }]
   },
   siteMetadata: {
