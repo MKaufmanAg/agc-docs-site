@@ -11,4 +11,11 @@ There are many color themes to choose from in VSCode. Some recommended ones are
 [Atom One Dark](https://marketplace.visualstudio.com/items?itemName=andischerer.theme-atom-one-dark)
 if you come from using Atom.
 
+## CLI Tools
+
+CLI tools for the installation and updating of docker and couchbase across multiple projects can be found
+[here](https://github.com/agconnections/CLI_Tools).
+
 ## Bash Aliases
+
+TODO
