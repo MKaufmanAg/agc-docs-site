@@ -1,7 +1,7 @@
 const config = {
   gatsby: {
-    pathPrefix: "/",
-    siteUrl: "https://learn.hasura.io",
+    pathPrefix: "/agc-docs-site",
+    siteUrl: "https://mkaufmanag.github.io/agc-docs-site",
     gaTrackingId: null
   },
   header: {
